@@ -1,6 +1,6 @@
 package com.inventory.model;
 
-package com.inventory.model;
+
 
 import javafx.beans.property.*;
 

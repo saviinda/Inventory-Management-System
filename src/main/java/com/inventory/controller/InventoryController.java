@@ -1,4 +1,4 @@
-package controller;
+package com.inventory.controller;
 
 public class InventoryController {
 }
